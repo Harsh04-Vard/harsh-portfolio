@@ -1,36 +1,165 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Harsh Vardhan Portfolio
 
-## Getting Started
+A modern and responsive developer portfolio built using Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
-First, run the development server:
+## Live Website
+
+🌐 Portfolio: https://harsh-portfolio-dusky-two.vercel.app/
+
+---
+
+## About
+
+This portfolio showcases my:
+
+- Software Development Projects
+- Technical Skills
+- Education
+- Coding Profiles
+- Achievements
+- Experience
+- Resume
+
+I am an Electronics & Communication Engineering undergraduate at NIT Kurukshetra passionate about Software Engineering, Data Structures & Algorithms, and AI-powered applications.
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Animations
+
+- Framer Motion
+- React Type Animation
+
+### Deployment
+
+- Vercel
+
+---
+
+## Features
+
+- Responsive Design
+- Dark Modern UI
+- Smooth Scroll Animations
+- Interactive Project Showcase
+- Coding Profile Cards
+- Downloadable Resume
+- Contact Section
+- Mobile Friendly Layout
+
+---
+
+## Projects Featured
+
+### AI Interview Marketplace
+
+AI-powered mock interview platform with authentication, AI-generated interviews, real-time interaction and email notifications.
+
+**Tech:** Next.js, Supabase, Clerk, Groq API
+
+---
+
+### Price Alert Tracker
+
+Tracks product prices automatically and notifies users whenever prices drop below target values.
+
+**Tech:** Next.js, Supabase, Firecrawl, Cron Jobs
+
+---
+
+### Movie Recommender System
+
+Content-based recommendation engine using Machine Learning, cosine similarity and TMDB API integration.
+
+**Tech:** Python, Streamlit, Machine Learning
+
+---
+
+## Coding Profiles
+
+### LeetCode
+
+- 700+ Problems Solved
+- Data Structures & Algorithms
+
+### GitHub
+
+- Software Projects
+- Full Stack Development
+
+### LinkedIn
+
+- Professional Networking
+- Career Updates
+
+---
+
+## Contact
+
+### Email
+
+📧 harshvardhanbharti2020@gmail.com
+
+### LinkedIn
+
+🔗 www.linkedin.com/in/harshvardhanbharti
+
+### GitHub
+
+🔗 github.com/Harsh04-Vard
+
+### LeetCode
+
+🔗 leetcode.com/u/BhartiHarsh_2024
+
+---
+
+## Local Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Harsh04-Vard/harsh-portfolio.git
+```
+
+Move into the project directory:
+
+```bash
+cd harsh-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Build for production:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
+This project is open-source and available under the MIT License.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2026 Harsh Vardhan
