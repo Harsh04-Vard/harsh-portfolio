@@ -159,10 +159,10 @@ export default function Hero() {
             <div className="absolute inset-0 bg-blue-500 blur-[100px] opacity-40 rounded-full" />
 
             <Image
-              src="/harsh.jpg"
+              src="/harsh.png"
               alt="Harsh Vardhan"
-              width={350}
-              height={350}
+              width={450}
+              height={450}
               priority
               className="relative rounded-full border-4 border-blue-500 shadow-[0_0_60px_rgba(59,130,246,0.5)] hover:scale-105 transition duration-500"
             />
